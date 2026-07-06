@@ -1,0 +1,6 @@
+{
+  "name": "MuniPulse Decision Intelligence Platform",
+  "description": "An AI-powered municipal decision intelligence platform to simulate policies, predict resource outcomes, build automated workflows, and consult a data-grounded Decision Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
